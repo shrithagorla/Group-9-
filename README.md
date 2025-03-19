@@ -1,22 +1,22 @@
 # Group 9 MIST 4610 Project 1
 
-Team Name:
+## Team Name: 
 21482 Group 9
 
-Team Members:
+## **Team Members:**
 
-1. Shritha Gorla @shrithagorla
-2. Ella Ransell @edr82569
-3. Logan Dwyer @logandwyer
-4. Matthew Robertson @matthewR0B
+1. Shritha Gorla [@shrithagorla](https://github.com/shrithagorla)
+2. Ella Ransell [@edr82569](https://github.com/edr82569)
+3. Logan Dwyer [@logandwyer](https://github.com/logandwyer)
+4. Matthew Robertson [@matthewROB](https://github.com/matthewROB)
 
-Problem Description: 
+## **Problem Description:**
 
 The task at hand is to model and build a relational database for the operations of a zoo. The central entity in the model is the Resident Animals entity, representing all animals currently housed at the zoo. These animals belong to specific species and are assigned enclosures in designated sections of the zoo.
 
 The zoo operates in conjunction with veterinary services, food supply management, ticket sales, and employee administration to ensure smooth operations. The database aims to accurately model these relationships, generate sample data, and populate entities with relevant attributes. Additionally, this system will allow for querying data to gain business insights into zoo operations, including animal care, resource allocation, revenue from ticket sales, and event management.
 
-Data Model: 
+## **Data Model:**
 
 Our model is based on the structure of a zoo management system, where different entities represent key operations such as animal care, veterinary needs, food sourcing, ticketing, and employee assignments.
 
@@ -24,5 +24,12 @@ The Resident Animals entity represents animals housed in the zoo. Each animal be
 
 Employee management is handled through the Zoo Employees entity, where each employee has a specific role within the zoo. Employees are responsible for overseeing animal care, veterinary needs, event organization, and administrative tasks. The zoo offers educational and recreational events, recorded in the Zoo Events table. Each event is associated with a specific animal, creating engagement opportunities for visitors. The Ticket Sales entity tracks revenue and visitor data, with different Ticket Types offering various pricing and access levels. The system maintains sale dates, the number of tickets sold, and pricing information.
 
-This database model ensures an efficient and well-organized zoo operation by integrating animal care, veterinary tracking, food inventory management, employee administration, and ticketing. By generating sample data and executing queries, zoo administrators can extract valuable insights to improve efficiency and ensure the well-being of the animals.
+![image](https://github.com/user-attachments/assets/1442fb69-40f7-4c35-bd48-1cfc410d536a)
 
+## **Data Dictionary:**
+
+## **Queries:**
+
+## **Database infromation:**
+
+Name of the database: ns_Sp25_21482_Group9
