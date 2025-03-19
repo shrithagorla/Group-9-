@@ -29,6 +29,11 @@ Employee management is handled through the Zoo Employees entity, where each empl
 ## **Data Dictionary:**
 [Final Data Dictionary.pdf](https://github.com/user-attachments/files/19330541/Final.Data.Dictionary.pdf)
 ![Animal Species-Enclosure](https://github.com/user-attachments/assets/e0356ee3-1e90-4476-9ab6-b05429194752)
+![Food Source-Transaction-Type](https://github.com/user-attachments/assets/caf2f8fe-4631-4119-b7da-5e7714d263c6)
+![Resident Animals-Section](https://github.com/user-attachments/assets/d97b2f3e-33c3-41b8-9f92-0e14c7305615)
+![Ticket Sales-Types, Vet Needs](https://github.com/user-attachments/assets/991a2221-0685-4133-8a40-0f0f744a9481)
+![Vet Transactions, Zoo Employees-Events](https://github.com/user-attachments/assets/bf4ecc05-6dd0-435b-a7b9-b8b99e11e080)
+
 
 ## **Queries:**
 
