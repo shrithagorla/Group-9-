@@ -28,6 +28,7 @@ Employee management is handled through the Zoo Employees entity, where each empl
 
 ## **Data Dictionary:**
 [Final Data Dictionary.pdf](https://github.com/user-attachments/files/19330541/Final.Data.Dictionary.pdf)
+![Animal Species-Enclosure](https://github.com/user-attachments/assets/e0356ee3-1e90-4476-9ab6-b05429194752)
 
 ## **Queries:**
 
